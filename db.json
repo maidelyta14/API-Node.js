@@ -1,0 +1,82 @@
+
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Harry Potter y la piedra filosofal",
+            "sipnosis": "Harry Potter y la piedra filosofal es el primer libro de la serie de Harry Potter,La historia sigue a un joven mago llamado Harry Potter, quien descubre su verdadera identidad y asiste a la Escuela de Magia y Hechicería de Hogwarts.",
+            "author": "J.K Rowlin",
+            "year": 1997
+        },
+        {
+            "id": 2,
+            "name": "Harry Potter y la cámara secreta",
+            "sipnosis": "Harry Potter y la cámara secreta es el segundo libro de la serie de Harry Potter. En esta entrega, Harry regresa a Hogwarts para su segundo año y descubre que alguien ha abierto la Cámara Secreta, liberando un monstruo que petrifica a los estudiantes.",
+            "author": "J.K Rowlin",
+            "year": 1998
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter y el prisionero de Azkaban",
+            "sipnosis": "Harry Potter y el prisionero de Azkaban es el tercer libro de la serie de Harry Potter. En esta historia, Harry descubre más sobre su pasado y se enfrenta a Sirius Black, un prisionero fugado de Azkaban que parece estar tras él.",
+            "author": "J.K. Rowling",
+            "year": 1998
+        },
+        {
+            "id": 4,
+            "name": "Harry Potter y el cáliz de fuego",
+            "sipnosis": "Harry Potter y el cáliz de fuego es el cuarto libro de la serie de Harry Potter. En esta entrega, Harry es inesperadamente seleccionado para participar en el Torneo de los Tres Magos, una peligrosa competencia entre escuelas de magia.",
+            "author": "J.K Rowlin",
+            "year": 2000
+        },
+        {
+            "id": 5,
+            "name": "Harry Potter y la Orden del Fénix",
+            "sipnosis": "Harry Potter y la Orden del Fénix es el quinto libro de la serie de Harry Potter. En esta historia, Harry y sus amigos forman un grupo secreto para luchar contra el regreso de Lord Voldemort, mientras enfrentan la opresión del Ministerio de Magia.",
+            "author": "J.K Rowlin",
+            "year": 2003
+        },
+        {
+            "id": 6,
+            "name": "Harry Potter y el misterio del príncipe",
+            "sipnosis": "Harry Potter y el misterio del príncipe es el sexto libro de la serie de Harry Potter. En esta entrega, Harry descubre más sobre la historia de Lord Voldemort y se prepara para la batalla final contra él, mientras enfrenta desafíos personales y emocionales.",
+            "author": "J.K Rowlin",
+            "year": 2005
+        },
+        {
+            "id": 7,
+            "name": "Harry Potter y las reliquias de la muerte",
+            "sipnosis": "Harry Potter y las reliquias de la muerte es el séptimo y último libro de la serie de Harry Potter. En esta historia, Harry, Ron y Hermione buscan los Horrocruxes restantes para derrotar a Lord Voldemort, mientras enfrentan peligros y revelaciones sobre su pasado.",
+            "author": "J.K Rowlin",
+            "year": 2007
+        },
+        {
+            "id": 8,
+            "name": "El hobbit",
+            "sipnosis": "El hobbit es una novela de fantasía. La historia sigue a Bilbo Bolsón, un hobbit que se embarca en una aventura épica con un grupo de enanos para recuperar su hogar y tesoro del dragón Smaug.",
+            "author": "J.R.R. Tolkien",
+            "year": 1937
+        },
+        {
+            "id": 9,
+            "name": "El señor de los anillos: La comunidad del anillo",
+            "sipnosis": "El señor de los anillos: La comunidad del anillo es el primer libro de la trilogía de El señor de los anillos. La historia sigue a Frodo Bolsón, quien debe destruir un poderoso anillo para salvar la Tierra Media del malvado Sauron.",
+            "author": "J.R.R. Tolkien",
+            "year": 1954
+        },
+        {
+            "id": 10,
+            "name": "El señor de los anillos: Las dos torres",
+            "sipnosis": "El señor de los anillos: Las dos torres es el segundo libro de la trilogía de El señor de los anillos. La historia sigue a los miembros de la comunidad del anillo mientras enfrentan nuevos desafíos y se separan en diferentes caminos para cumplir su misión.",
+            "author": "J.R.R. Tolkien",
+            "year": 1954
+        },
+        {
+            "id": 11,
+            "name": "El señor de los anillos: El retorno del rey",
+            "sipnosis": "El señor de los anillos: El retorno del rey es el tercer y último libro de la trilogía de El señor de los anillos. La historia culmina en la batalla final por la Tierra Media, donde Frodo y Sam deben completar su misión de destruir el anillo.",
+            "author": "J.R.R. Tolkien",
+            "year": 1955
+        }
+    ]
+}
