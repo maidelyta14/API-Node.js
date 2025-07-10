@@ -1,5 +1,8 @@
 ### Este es un archivo de peticiones HTTP para probar los endpoints de un servidor Node.js que maneja libros.
 
+###Endpoint de mensaje de bienvenida
+
+
 ###Este es una peticion HTTP para traer todos los libros
 GET http://localhost:3000/books HTTP/1.1
 
@@ -13,7 +16,7 @@ Content-Type: application/json
 {
   "title": "La reina Roja",
   "author": "Victoria Aveyard",
-  "year": 2015,
+  "year": 2015
 }
 
 ###Este es una petición HTTP para actualizar un libro existente, el cual se recibe en el body de la petición y se identifica por el id en la URL
